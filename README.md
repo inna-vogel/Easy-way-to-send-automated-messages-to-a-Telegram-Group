@@ -1,4 +1,4 @@
-# How to send automated messages to a Telegram group?
+# How to send automated messages to a Telegram Group?
 
 1. Create a Grout in Telegram <br>
 2. Search in Telegram for --> "BotFather" --> send any text to BotFather --> now select "new bot" (choose a Bot name and a username you like) --> Copy the token created by the bot from the field "Use this token to access the HTTP API" (see pic below)
