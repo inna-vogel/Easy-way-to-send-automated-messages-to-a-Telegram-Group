@@ -9,7 +9,7 @@
 
 If you now open this URL (place there your token) in a browser a message to the Telegram Group will be send automatically
 
-# https://api.telegram.org/botPLACE_HERE_THE_TOKEN/sendMessage?chat_id=-530836315&text="This_is_a_test!"
+# https://api.telegram.org/botPLACE_HERE_THE_TOKEN/sendMessage?chat_id=-530836315&text="This_is_a_test"
 
 
 
